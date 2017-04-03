@@ -1,0 +1,1296 @@
+1---28928 address is not in the cache. Miss! History bit is set to 00 now.
+2---30711 address is not in the cache. Miss! History bit is set to 00 now.
+3---30711 address is in the cache. Hit!  History bit is set to 01 now.
+4---28928 address is in the cache. Hit!  History bit is set to 01 now.
+5---30711 address is in the cache. Hit!  History bit is set to 11 now.
+6---8800 address is not in the cache. Miss! History bit is set to 00 now.
+7---52335 address is not in the cache. Miss! History bit is set to 00 now.
+8---38775 address is not in the cache. Miss! History bit is set to 00 now.
+9---52704 address is not in the cache. Miss! History bit is set to 00 now.
+10---24380 address is not in the cache. Miss! History bit is set to 00 now.
+11---19602 address is not in the cache. Miss! History bit is set to 00 now.
+12---57998 address is not in the cache. Miss! History bit is set to 00 now.
+13---2919 address is not in the cache. Miss! History bit is set to 00 now.
+14---8362 address is not in the cache. Miss! History bit is set to 00 now.
+15---17884 address is not in the cache. Miss! History bit is set to 00 now.
+16---45737 address is not in the cache. Miss! History bit is set to 00 now.
+17---47894 address is not in the cache. Miss! History bit is set to 00 now.
+18---59667 address is not in the cache. Miss! History bit is set to 00 now.
+19---10385 address is not in the cache. Miss! History bit is set to 00 now.
+20---52782 address is not in the cache. Miss! History bit is set to 00 now.
+21---64416 address is not in the cache. Miss! History bit is set to 00 now.
+22---40946 address is not in the cache. Miss! History bit is set to 00 now.
+23---16778 address is not in the cache. Miss! History bit is set to 00 now.
+24---27159 address is not in the cache. Miss! History bit is set to 00 now.
+25---38669 address is not in the cache. Miss! History bit is set to 00 now.
+26---45637 address is not in the cache. Miss! History bit is set to 00 now.
+27---43151 address is not in the cache. Miss! History bit is set to 00 now.
+28---9465 address is not in the cache. Miss! History bit is set to 00 now.
+29---2498 address is not in the cache. Miss! History bit is set to 00 now.
+30---13978 address is not in the cache. Miss! History bit is set to 00 now.
+31---16326 address is not in the cache. Miss! History bit is set to 00 now.
+32---51442 address is not in the cache. Miss! History bit is set to 00 now.
+33---34845 address is not in the cache. Miss! History bit is set to 00 now.
+34---63667 address is not in the cache. Miss! History bit is set to 00 now.
+35---39370 address is not in the cache. Miss! History bit is set to 00 now.
+36---55671 address is not in the cache. Miss! History bit is set to 00 now.
+37---64496 address is not in the cache. Miss! History bit is set to 00 now.
+38---7767 address is not in the cache. Miss! History bit is set to 00 now.
+39---6283 address is not in the cache. Miss! History bit is set to 00 now.
+40---28928 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+41---30711 address is in the cache. Hit!  History bit is set to 01 now.
+42---8800 address is in the cache. Hit!  History bit is set to 01 now.
+43---52335 address is in the cache. Hit!  History bit is set to 01 now.
+44---38775 address is in the cache. Hit!  History bit is set to 01 now.
+45---52704 address is in the cache. Hit!  History bit is set to 01 now.
+46---24380 address is in the cache. Hit!  History bit is set to 01 now.
+47---19602 address is in the cache. Hit!  History bit is set to 01 now.
+48---57998 address is in the cache. Hit!  History bit is set to 01 now.
+49---2919 address is in the cache. Hit!  History bit is set to 01 now.
+50---8362 address is in the cache. Hit!  History bit is set to 01 now.
+51---17884 address is in the cache. Hit!  History bit is set to 01 now.
+52---45737 address is in the cache. Hit!  History bit is set to 01 now.
+53---47894 address is in the cache. Hit!  History bit is set to 01 now.
+54---59667 address is in the cache. Hit!  History bit is set to 01 now.
+55---55884 address is not in the cache. Miss! History bit is set to 00 now.
+56---61103 address is not in the cache. Miss! History bit is set to 00 now.
+57---10184 address is not in the cache. Miss! History bit is set to 00 now.
+58---39543 address is not in the cache. Miss! History bit is set to 00 now.
+59---9555 address is not in the cache. Miss! History bit is set to 00 now.
+60---13963 address is not in the cache. Miss! History bit is set to 00 now.
+61---58975 address is not in the cache. Miss! History bit is set to 00 now.
+62---19537 address is not in the cache. Miss! History bit is set to 00 now.
+63---6101 address is not in the cache. Miss! History bit is set to 00 now.
+64---41421 address is not in the cache. Miss! History bit is set to 00 now.
+65---45502 address is not in the cache. Miss! History bit is set to 00 now.
+66---29328 address is not in the cache. Miss! History bit is set to 00 now.
+67---8149 address is not in the cache. Miss! History bit is set to 00 now.
+68---25450 address is not in the cache. Miss! History bit is set to 00 now.
+69---58944 address is not in the cache. Miss! History bit is set to 00 now.
+70---50666 address is not in the cache. Miss! History bit is set to 00 now.
+71---23084 address is not in the cache. Miss! History bit is set to 00 now.
+72---36468 address is not in the cache. Miss! History bit is set to 00 now.
+73---33645 address is not in the cache. Miss! History bit is set to 00 now.
+74---25002 address is not in the cache. Miss! History bit is set to 00 now.
+75---53715 address is not in the cache. Miss! History bit is set to 00 now.
+76---60173 address is not in the cache. Miss! History bit is set to 00 now.
+77---46354 address is not in the cache. Miss! History bit is set to 00 now.
+78---4708 address is not in the cache. Miss! History bit is set to 00 now.
+79---28208 address is not in the cache. Miss! History bit is set to 00 now.
+80---58844 address is not in the cache. Miss! History bit is set to 00 now.
+History reset due to frequency count reach!
+81---22173 address is not in the cache. Miss! History bit is set to 00 now.
+82---8535 address is not in the cache. Miss! History bit is set to 00 now.
+83---42261 address is not in the cache. Miss! History bit is set to 00 now.
+84---29687 address is not in the cache. Miss! History bit is set to 00 now.
+85---37799 address is not in the cache. Miss! History bit is set to 00 now.
+86---22566 address is not in the cache. Miss! History bit is set to 00 now.
+87---62520 address is not in the cache. Miss! History bit is set to 00 now.
+88---4098 address is not in the cache. Miss! History bit is set to 00 now.
+89---28928 address is in the cache. Hit!  History bit is set to 01 now.
+90---30711 address is in the cache. Hit!  History bit is set to 01 now.
+91---8800 address is in the cache. Hit!  History bit is set to 01 now.
+92---52335 address is in the cache. Hit!  History bit is set to 01 now.
+93---38775 address is in the cache. Hit!  History bit is set to 01 now.
+94---52704 address is in the cache. Hit!  History bit is set to 01 now.
+95---24380 address is in the cache. Hit!  History bit is set to 01 now.
+96---19602 address is in the cache. Hit!  History bit is set to 01 now.
+97---57998 address is in the cache. Hit!  History bit is set to 01 now.
+98---2919 address is in the cache. Hit!  History bit is set to 01 now.
+99---8362 address is in the cache. Hit!  History bit is set to 01 now.
+100---17884 address is in the cache. Hit!  History bit is set to 01 now.
+101---45737 address is in the cache. Hit!  History bit is set to 01 now.
+102---47894 address is in the cache. Hit!  History bit is set to 01 now.
+103---59667 address is in the cache. Hit!  History bit is set to 01 now.
+104---47999 address is not in the cache. Miss! History bit is set to 00 now.
+105---49660 address is not in the cache. Miss! History bit is set to 00 now.
+106---37063 address is not in the cache. Miss! History bit is set to 00 now.
+107---41856 address is not in the cache. Miss! History bit is set to 00 now.
+108---5417 address is not in the cache. Miss! History bit is set to 00 now.
+109---48856 address is not in the cache. Miss! History bit is set to 00 now.
+110---10682 address is not in the cache. Miss! History bit is set to 00 now.
+111---22370 address is not in the cache. Miss! History bit is set to 00 now.
+112---63281 address is not in the cache. Miss! History bit is set to 00 now.
+113---62452 address is not in the cache. Miss! History bit is set to 00 now.
+114---50532 address is not in the cache. Miss! History bit is set to 00 now.
+115---9022 address is not in the cache. Miss! History bit is set to 00 now.
+116---59300 address is not in the cache. Miss! History bit is set to 00 now.
+117---58660 address is not in the cache. Miss! History bit is set to 00 now.
+118---56401 address is not in the cache. Miss! History bit is set to 00 now.
+119---8518 address is not in the cache. Miss! History bit is set to 00 now.
+120---63066 address is not in the cache. Miss! History bit is set to 00 now.
+History reset due to frequency count reach!
+121---63250 address is not in the cache. Miss! History bit is set to 00 now.
+122---48592 address is not in the cache. Miss! History bit is set to 00 now.
+123---28771 address is not in the cache. Miss! History bit is set to 00 now.
+124---37673 address is not in the cache. Miss! History bit is set to 00 now.
+125---60776 address is not in the cache. Miss! History bit is set to 00 now.
+126---56438 address is not in the cache. Miss! History bit is set to 00 now.
+127---60424 address is not in the cache. Miss! History bit is set to 00 now.
+128---39993 address is not in the cache. Miss! History bit is set to 00 now.
+129---56004 address is not in the cache. Miss! History bit is set to 00 now.
+130---59002 address is not in the cache. Miss! History bit is set to 00 now.
+131---33982 address is not in the cache. Miss! History bit is set to 00 now.
+132---25498 address is not in the cache. Miss! History bit is set to 00 now.
+133---57047 address is not in the cache. Miss! History bit is set to 00 now.
+134---1401 address is not in the cache. Miss! History bit is set to 00 now.
+135---15130 address is not in the cache. Miss! History bit is set to 00 now.
+136---42960 address is not in the cache. Miss! History bit is set to 00 now.
+137---61827 address is not in the cache. Miss! History bit is set to 00 now.
+138---32442 address is not in the cache. Miss! History bit is set to 00 now.
+139---64496 address is in the cache. Hit!  History bit is set to 01 now.
+140---30273 address is not in the cache. Miss! History bit is set to 00 now.
+141---22370 address is in the cache. Hit!  History bit is set to 01 now.
+142---63281 address is in the cache. Hit!  History bit is set to 01 now.
+143---62452 address is in the cache. Hit!  History bit is set to 01 now.
+144---50532 address is in the cache. Hit!  History bit is set to 01 now.
+145---9022 address is in the cache. Hit!  History bit is set to 01 now.
+146---59300 address is in the cache. Hit!  History bit is set to 01 now.
+147---58660 address is in the cache. Hit!  History bit is set to 01 now.
+148---56401 address is in the cache. Hit!  History bit is set to 01 now.
+149---8518 address is in the cache. Hit!  History bit is set to 01 now.
+150---63066 address is in the cache. Hit!  History bit is set to 01 now.
+151---63250 address is in the cache. Hit!  History bit is set to 01 now.
+152---48592 address is in the cache. Hit!  History bit is set to 01 now.
+153---28771 address is in the cache. Hit!  History bit is set to 01 now.
+154---37673 address is in the cache. Hit!  History bit is set to 01 now.
+155---60776 address is in the cache. Hit!  History bit is set to 01 now.
+156---56438 address is in the cache. Hit!  History bit is set to 01 now.
+157---60424 address is in the cache. Hit!  History bit is set to 01 now.
+158---39993 address is in the cache. Hit!  History bit is set to 01 now.
+There is an empty address stream on the line 159 in the .txt file  that user entered for addresses. Operation count does not increase
+159---38082 address is not in the cache. Miss! History bit is set to 00 now.
+160---22404 address is not in the cache. Miss! History bit is set to 00 now.
+History reset due to frequency count reach!
+161---3808 address is not in the cache. Miss! History bit is set to 00 now.
+162---16883 address is not in the cache. Miss! History bit is set to 00 now.
+163---23111 address is not in the cache. Miss! History bit is set to 00 now.
+164---62417 address is not in the cache. Miss! History bit is set to 00 now.
+165---60364 address is not in the cache. Miss! History bit is set to 00 now.
+166---4542 address is not in the cache. Miss! History bit is set to 00 now.
+167---14829 address is not in the cache. Miss! History bit is set to 00 now.
+168---44964 address is not in the cache. Miss! History bit is set to 00 now.
+169---33924 address is not in the cache. Miss! History bit is set to 00 now.
+170---49247 address is not in the cache. Miss! History bit is set to 00 now.
+171---4900 address is in the cache. Hit!  History bit is set to 01 now.
+172---22656 address is not in the cache. Miss! History bit is set to 00 now.
+173---34117 address is not in the cache. Miss! History bit is set to 00 now.
+174---55555 address is not in the cache. Miss! History bit is set to 00 now.
+175---48947 address is not in the cache. Miss! History bit is set to 00 now.
+176---59533 address is not in the cache. Miss! History bit is set to 00 now.
+177---21312 address is not in the cache. Miss! History bit is set to 00 now.
+178---21415 address is not in the cache. Miss! History bit is set to 00 now.
+179---813 address is not in the cache. Miss! History bit is set to 00 now.
+180---19419 address is not in the cache. Miss! History bit is set to 00 now.
+181---1999 address is not in the cache. Miss! History bit is set to 00 now.
+182---20155 address is not in the cache. Miss! History bit is set to 00 now.
+183---21521 address is not in the cache. Miss! History bit is set to 00 now.
+184---13670 address is not in the cache. Miss! History bit is set to 00 now.
+185---19289 address is not in the cache. Miss! History bit is set to 00 now.
+186---58483 address is not in the cache. Miss! History bit is set to 00 now.
+187---41318 address is not in the cache. Miss! History bit is set to 00 now.
+188---16151 address is not in the cache. Miss! History bit is set to 00 now.
+189---13611 address is not in the cache. Miss! History bit is set to 00 now.
+190---21514 address is not in the cache. Miss! History bit is set to 00 now.
+191---13499 address is not in the cache. Miss! History bit is set to 00 now.
+192---45583 address is not in the cache. Miss! History bit is set to 00 now.
+193---49013 address is not in the cache. Miss! History bit is set to 00 now.
+194---64843 address is not in the cache. Miss! History bit is set to 00 now.
+195---63485 address is not in the cache. Miss! History bit is set to 00 now.
+196---38697 address is not in the cache. Miss! History bit is set to 00 now.
+197---59188 address is not in the cache. Miss! History bit is set to 00 now.
+198---24593 address is not in the cache. Miss! History bit is set to 00 now.
+199---57641 address is not in the cache. Miss! History bit is set to 00 now.
+200---36524 address is not in the cache. Miss! History bit is set to 00 now.
+History reset due to frequency count reach!
+201---56980 address is not in the cache. Miss! History bit is set to 00 now.
+202---36810 address is not in the cache. Miss! History bit is set to 00 now.
+203---6096 address is not in the cache. Miss! History bit is set to 00 now.
+204---11070 address is not in the cache. Miss! History bit is set to 00 now.
+205---60124 address is not in the cache. Miss! History bit is set to 00 now.
+206---37576 address is not in the cache. Miss! History bit is set to 00 now.
+207---15096 address is not in the cache. Miss! History bit is set to 00 now.
+208---45247 address is not in the cache. Miss! History bit is set to 00 now.
+209---32783 address is not in the cache. Miss! History bit is set to 00 now.
+210---58390 address is not in the cache. Miss! History bit is set to 00 now.
+211---60873 address is not in the cache. Miss! History bit is set to 00 now.
+212---23719 address is not in the cache. Miss! History bit is set to 00 now.
+213---24385 address is not in the cache. Miss! History bit is set to 00 now.
+214---22307 address is not in the cache. Miss! History bit is set to 00 now.
+215---17375 address is not in the cache. Miss! History bit is set to 00 now.
+216---15990 address is not in the cache. Miss! History bit is set to 00 now.
+217---20526 address is not in the cache. Miss! History bit is set to 00 now.
+218---25904 address is not in the cache. Miss! History bit is set to 00 now.
+219---42224 address is not in the cache. Miss! History bit is set to 00 now.
+220---9311 address is not in the cache. Miss! History bit is set to 00 now.
+221---2141 address is not in the cache. Miss! History bit is set to 00 now.
+222---19245 address is not in the cache. Miss! History bit is set to 00 now.
+223---47168 address is not in the cache. Miss! History bit is set to 00 now.
+224---24048 address is not in the cache. Miss! History bit is set to 00 now.
+225---1022 address is not in the cache. Miss! History bit is set to 00 now.
+226---23075 address is not in the cache. Miss! History bit is set to 00 now.
+227---24888 address is not in the cache. Miss! History bit is set to 00 now.
+228---2141 address is in the cache. Hit!  History bit is set to 01 now.
+229---19245 address is in the cache. Hit!  History bit is set to 01 now.
+230---47168 address is in the cache. Hit!  History bit is set to 01 now.
+231---24048 address is in the cache. Hit!  History bit is set to 01 now.
+232---1022 address is in the cache. Hit!  History bit is set to 01 now.
+233---23075 address is in the cache. Hit!  History bit is set to 01 now.
+234---24888 address is in the cache. Hit!  History bit is set to 01 now.
+235---7862 address is not in the cache. Miss! History bit is set to 00 now.
+236---3835 address is not in the cache. Miss! History bit is set to 00 now.
+237---30535 address is not in the cache. Miss! History bit is set to 00 now.
+238---65179 address is not in the cache. Miss! History bit is set to 00 now.
+239---57387 address is not in the cache. Miss! History bit is set to 00 now.
+240---63579 address is not in the cache. Miss! History bit is set to 00 now.
+History reset due to frequency count reach!
+241---4946 address is not in the cache. Miss! History bit is set to 00 now.
+242---9037 address is not in the cache. Miss! History bit is set to 00 now.
+243---61033 address is not in the cache. Miss! History bit is set to 00 now.
+244---55671 address is in the cache. Hit!  History bit is set to 01 now.
+245---50361 address is not in the cache. Miss! History bit is set to 00 now.
+246---6480 address is not in the cache. Miss! History bit is set to 00 now.
+247---14042 address is in the cache. Hit!  History bit is set to 01 now.
+248---21531 address is not in the cache. Miss! History bit is set to 00 now.
+249---39195 address is not in the cache. Miss! History bit is set to 00 now.
+250---37511 address is not in the cache. Miss! History bit is set to 00 now.
+251---23696 address is not in the cache. Miss! History bit is set to 00 now.
+252---27440 address is not in the cache. Miss! History bit is set to 00 now.
+253---28201 address is not in the cache. Miss! History bit is set to 00 now.
+254---23072 address is not in the cache. Miss! History bit is set to 00 now.
+255---7814 address is not in the cache. Miss! History bit is set to 00 now.
+256---6552 address is not in the cache. Miss! History bit is set to 00 now.
+257---43637 address is not in the cache. Miss! History bit is set to 00 now.
+258---35113 address is not in the cache. Miss! History bit is set to 00 now.
+259---34890 address is not in the cache. Miss! History bit is set to 00 now.
+260---61297 address is not in the cache. Miss! History bit is set to 00 now.
+261---45633 address is not in the cache. Miss! History bit is set to 00 now.
+262---61431 address is not in the cache. Miss! History bit is set to 00 now.
+263---46032 address is not in the cache. Miss! History bit is set to 00 now.
+264---18774 address is not in the cache. Miss! History bit is set to 00 now.
+265---62991 address is not in the cache. Miss! History bit is set to 00 now.
+266---28059 address is not in the cache. Miss! History bit is set to 00 now.
+267---35229 address is not in the cache. Miss! History bit is set to 00 now.
+268---2141 address is in the cache. Hit!  History bit is set to 01 now.
+269---19245 address is in the cache. Hit!  History bit is set to 01 now.
+270---47168 address is in the cache. Hit!  History bit is set to 01 now.
+271---24048 address is in the cache. Hit!  History bit is set to 01 now.
+272---1022 address is in the cache. Hit!  History bit is set to 01 now.
+273---23075 address is in the cache. Hit!  History bit is set to 01 now.
+274---24888 address is in the cache. Hit!  History bit is set to 01 now.
+275---51230 address is not in the cache. Miss! History bit is set to 00 now.
+276---14405 address is not in the cache. Miss! History bit is set to 00 now.
+277---52242 address is not in the cache. Miss! History bit is set to 00 now.
+278---2141 address is in the cache. Hit!  History bit is set to 11 now.
+279---19245 address is in the cache. Hit!  History bit is set to 11 now.
+280---47168 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+281---24048 address is in the cache. Hit!  History bit is set to 01 now.
+282---1022 address is in the cache. Hit!  History bit is set to 01 now.
+283---23075 address is in the cache. Hit!  History bit is set to 01 now.
+284---24888 address is in the cache. Hit!  History bit is set to 01 now.
+285---2141 address is in the cache. Hit!  History bit is set to 01 now.
+286---19245 address is in the cache. Hit!  History bit is set to 01 now.
+287---47168 address is in the cache. Hit!  History bit is set to 01 now.
+288---24048 address is in the cache. Hit!  History bit is set to 11 now.
+289---1022 address is in the cache. Hit!  History bit is set to 11 now.
+290---23075 address is in the cache. Hit!  History bit is set to 11 now.
+291---24888 address is in the cache. Hit!  History bit is set to 11 now.
+292---43153 address is not in the cache. Miss! History bit is set to 00 now.
+293---2709 address is not in the cache. Miss! History bit is set to 00 now.
+294---47963 address is not in the cache. Miss! History bit is set to 00 now.
+295---36943 address is not in the cache. Miss! History bit is set to 00 now.
+296---54066 address is not in the cache. Miss! History bit is set to 00 now.
+297---10054 address is not in the cache. Miss! History bit is set to 00 now.
+298---43051 address is not in the cache. Miss! History bit is set to 00 now.
+299---11525 address is not in the cache. Miss! History bit is set to 00 now.
+300---17684 address is not in the cache. Miss! History bit is set to 00 now.
+301---41681 address is not in the cache. Miss! History bit is set to 00 now.
+302---27883 address is not in the cache. Miss! History bit is set to 00 now.
+303---56909 address is not in the cache. Miss! History bit is set to 00 now.
+304---45772 address is not in the cache. Miss! History bit is set to 00 now.
+305---27496 address is not in the cache. Miss! History bit is set to 00 now.
+306---43153 address is in the cache. Hit!  History bit is set to 01 now.
+307---2709 address is in the cache. Hit!  History bit is set to 01 now.
+308---47963 address is in the cache. Hit!  History bit is set to 01 now.
+309---36943 address is in the cache. Hit!  History bit is set to 01 now.
+310---54066 address is in the cache. Hit!  History bit is set to 01 now.
+311---10054 address is in the cache. Hit!  History bit is set to 01 now.
+312---43051 address is in the cache. Hit!  History bit is set to 01 now.
+313---11525 address is in the cache. Hit!  History bit is set to 01 now.
+314---17684 address is in the cache. Hit!  History bit is set to 01 now.
+315---41681 address is in the cache. Hit!  History bit is set to 01 now.
+316---27883 address is in the cache. Hit!  History bit is set to 01 now.
+317---56909 address is in the cache. Hit!  History bit is set to 01 now.
+318---43153 address is in the cache. Hit!  History bit is set to 11 now.
+319---2709 address is in the cache. Hit!  History bit is set to 11 now.
+320---47963 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+321---36943 address is in the cache. Hit!  History bit is set to 01 now.
+322---54066 address is in the cache. Hit!  History bit is set to 01 now.
+323---10054 address is in the cache. Hit!  History bit is set to 01 now.
+324---43051 address is in the cache. Hit!  History bit is set to 01 now.
+325---11525 address is in the cache. Hit!  History bit is set to 01 now.
+326---17684 address is in the cache. Hit!  History bit is set to 01 now.
+327---41681 address is in the cache. Hit!  History bit is set to 01 now.
+328---27883 address is in the cache. Hit!  History bit is set to 01 now.
+329---56909 address is in the cache. Hit!  History bit is set to 01 now.
+330---46842 address is not in the cache. Miss! History bit is set to 00 now.
+331---38734 address is not in the cache. Miss! History bit is set to 00 now.
+332---28972 address is not in the cache. Miss! History bit is set to 00 now.
+333---59684 address is not in the cache. Miss! History bit is set to 00 now.
+334---11384 address is not in the cache. Miss! History bit is set to 00 now.
+335---21018 address is not in the cache. Miss! History bit is set to 00 now.
+336---2192 address is not in the cache. Miss! History bit is set to 00 now.
+337---18384 address is not in the cache. Miss! History bit is set to 00 now.
+338---13464 address is not in the cache. Miss! History bit is set to 00 now.
+339---31018 address is not in the cache. Miss! History bit is set to 00 now.
+340---62958 address is not in the cache. Miss! History bit is set to 00 now.
+341---30611 address is not in the cache. Miss! History bit is set to 00 now.
+342---1913 address is not in the cache. Miss! History bit is set to 00 now.
+343---18904 address is not in the cache. Miss! History bit is set to 00 now.
+344---26773 address is not in the cache. Miss! History bit is set to 00 now.
+345---55555 address is in the cache. Hit!  History bit is set to 01 now.
+346---21899 address is not in the cache. Miss! History bit is set to 00 now.
+347---64413 address is not in the cache. Miss! History bit is set to 00 now.
+348---47134 address is not in the cache. Miss! History bit is set to 00 now.
+349---23172 address is not in the cache. Miss! History bit is set to 00 now.
+350---7262 address is not in the cache. Miss! History bit is set to 00 now.
+351---12705 address is not in the cache. Miss! History bit is set to 00 now.
+352---7522 address is not in the cache. Miss! History bit is set to 00 now.
+353---58815 address is not in the cache. Miss! History bit is set to 00 now.
+354---34916 address is not in the cache. Miss! History bit is set to 00 now.
+355---3802 address is not in the cache. Miss! History bit is set to 00 now.
+356---58008 address is not in the cache. Miss! History bit is set to 00 now.
+357---1239 address is not in the cache. Miss! History bit is set to 00 now.
+358---63947 address is not in the cache. Miss! History bit is set to 00 now.
+359---381 address is not in the cache. Miss! History bit is set to 00 now.
+360---60734 address is not in the cache. Miss! History bit is set to 00 now.
+History reset due to frequency count reach!
+361---48769 address is not in the cache. Miss! History bit is set to 00 now.
+362---41938 address is not in the cache. Miss! History bit is set to 00 now.
+363---38025 address is not in the cache. Miss! History bit is set to 00 now.
+364---55099 address is not in the cache. Miss! History bit is set to 00 now.
+365---56691 address is not in the cache. Miss! History bit is set to 00 now.
+366---39530 address is not in the cache. Miss! History bit is set to 00 now.
+367---59003 address is not in the cache. Miss! History bit is set to 00 now.
+368---43153 address is in the cache. Hit!  History bit is set to 01 now.
+369---2709 address is in the cache. Hit!  History bit is set to 01 now.
+370---47963 address is in the cache. Hit!  History bit is set to 01 now.
+371---36943 address is in the cache. Hit!  History bit is set to 01 now.
+372---54066 address is in the cache. Hit!  History bit is set to 01 now.
+373---10054 address is in the cache. Hit!  History bit is set to 01 now.
+374---43051 address is in the cache. Hit!  History bit is set to 01 now.
+375---11525 address is in the cache. Hit!  History bit is set to 01 now.
+376---17684 address is in the cache. Hit!  History bit is set to 01 now.
+377---41681 address is in the cache. Hit!  History bit is set to 01 now.
+378---27883 address is in the cache. Hit!  History bit is set to 01 now.
+379---56909 address is in the cache. Hit!  History bit is set to 01 now.
+380---57751 address is not in the cache. Miss! History bit is set to 00 now.
+381---23195 address is not in the cache. Miss! History bit is set to 00 now.
+382---27227 address is not in the cache. Miss! History bit is set to 00 now.
+383---42816 address is not in the cache. Miss! History bit is set to 00 now.
+384---11983 address is not in the cache. Miss! History bit is set to 00 now.
+385---48394 address is not in the cache. Miss! History bit is set to 00 now.
+386---11036 address is not in the cache. Miss! History bit is set to 00 now.
+387---30557 address is not in the cache. Miss! History bit is set to 00 now.
+388---23453 address is not in the cache. Miss! History bit is set to 00 now.
+389---49847 address is not in the cache. Miss! History bit is set to 00 now.
+390---30032 address is not in the cache. Miss! History bit is set to 00 now.
+391---48065 address is not in the cache. Miss! History bit is set to 00 now.
+392---6957 address is not in the cache. Miss! History bit is set to 00 now.
+393---2301 address is not in the cache. Miss! History bit is set to 00 now.
+394---7736 address is not in the cache. Miss! History bit is set to 00 now.
+395---31260 address is not in the cache. Miss! History bit is set to 00 now.
+396---17071 address is not in the cache. Miss! History bit is set to 00 now.
+397---8940 address is not in the cache. Miss! History bit is set to 00 now.
+398---9929 address is not in the cache. Miss! History bit is set to 00 now.
+399---45563 address is not in the cache. Miss! History bit is set to 00 now.
+400---12107 address is not in the cache. Miss! History bit is set to 00 now.
+History reset due to frequency count reach!
+401---6029 address is not in the cache. Miss! History bit is set to 00 now.
+402---20920 address is not in the cache. Miss! History bit is set to 00 now.
+403---8077 address is not in the cache. Miss! History bit is set to 00 now.
+404---42633 address is not in the cache. Miss! History bit is set to 00 now.
+405---17443 address is not in the cache. Miss! History bit is set to 00 now.
+406---53570 address is not in the cache. Miss! History bit is set to 00 now.
+407---22833 address is not in the cache. Miss! History bit is set to 00 now.
+408---3782 address is not in the cache. Miss! History bit is set to 00 now.
+409---47758 address is not in the cache. Miss! History bit is set to 00 now.
+410---22136 address is not in the cache. Miss! History bit is set to 00 now.
+411---22427 address is not in the cache. Miss! History bit is set to 00 now.
+412---23867 address is not in the cache. Miss! History bit is set to 00 now.
+413---59968 address is not in the cache. Miss! History bit is set to 00 now.
+414---62166 address is not in the cache. Miss! History bit is set to 00 now.
+415---6972 address is not in the cache. Miss! History bit is set to 00 now.
+416---63684 address is not in the cache. Miss! History bit is set to 00 now.
+417---46388 address is not in the cache. Miss! History bit is set to 00 now.
+418---41942 address is not in the cache. Miss! History bit is set to 00 now.
+419---36524 address is in the cache. Hit!  History bit is set to 01 now.
+420---9323 address is not in the cache. Miss! History bit is set to 00 now.
+421---31114 address is not in the cache. Miss! History bit is set to 00 now.
+422---22345 address is not in the cache. Miss! History bit is set to 00 now.
+423---46463 address is not in the cache. Miss! History bit is set to 00 now.
+424---54671 address is not in the cache. Miss! History bit is set to 00 now.
+425---9214 address is in the cache. Hit!  History bit is set to 01 now.
+426---7257 address is not in the cache. Miss! History bit is set to 00 now.
+427---33150 address is not in the cache. Miss! History bit is set to 00 now.
+428---41565 address is not in the cache. Miss! History bit is set to 00 now.
+429---26214 address is not in the cache. Miss! History bit is set to 00 now.
+430---3595 address is not in the cache. Miss! History bit is set to 00 now.
+431---17932 address is not in the cache. Miss! History bit is set to 00 now.
+432---34660 address is not in the cache. Miss! History bit is set to 00 now.
+433---51961 address is not in the cache. Miss! History bit is set to 00 now.
+434---58634 address is not in the cache. Miss! History bit is set to 00 now.
+435---57990 address is not in the cache. Miss! History bit is set to 00 now.
+436---28848 address is not in the cache. Miss! History bit is set to 00 now.
+437---49920 address is not in the cache. Miss! History bit is set to 00 now.
+438---18351 address is not in the cache. Miss! History bit is set to 00 now.
+439---53669 address is not in the cache. Miss! History bit is set to 00 now.
+440---33996 address is not in the cache. Miss! History bit is set to 00 now.
+History reset due to frequency count reach!
+441---6741 address is not in the cache. Miss! History bit is set to 00 now.
+442---64098 address is not in the cache. Miss! History bit is set to 00 now.
+443---606 address is not in the cache. Miss! History bit is set to 00 now.
+444---27383 address is not in the cache. Miss! History bit is set to 00 now.
+445---63140 address is not in the cache. Miss! History bit is set to 00 now.
+446---32228 address is not in the cache. Miss! History bit is set to 00 now.
+447---63437 address is not in the cache. Miss! History bit is set to 00 now.
+448---29085 address is not in the cache. Miss! History bit is set to 00 now.
+449---65080 address is not in the cache. Miss! History bit is set to 00 now.
+450---38753 address is not in the cache. Miss! History bit is set to 00 now.
+451---16041 address is not in the cache. Miss! History bit is set to 00 now.
+452---9041 address is not in the cache. Miss! History bit is set to 00 now.
+453---42090 address is not in the cache. Miss! History bit is set to 00 now.
+454---46388 address is in the cache. Hit!  History bit is set to 01 now.
+455---63650 address is not in the cache. Miss! History bit is set to 00 now.
+456---36636 address is not in the cache. Miss! History bit is set to 00 now.
+457---21947 address is not in the cache. Miss! History bit is set to 00 now.
+458---19833 address is not in the cache. Miss! History bit is set to 00 now.
+459---36464 address is not in the cache. Miss! History bit is set to 00 now.
+460---8541 address is not in the cache. Miss! History bit is set to 00 now.
+461---12712 address is not in the cache. Miss! History bit is set to 00 now.
+462---48955 address is not in the cache. Miss! History bit is set to 00 now.
+463---39206 address is not in the cache. Miss! History bit is set to 00 now.
+464---15578 address is not in the cache. Miss! History bit is set to 00 now.
+465---49205 address is in the cache. Hit!  History bit is set to 01 now.
+466---7731 address is not in the cache. Miss! History bit is set to 00 now.
+467---43046 address is not in the cache. Miss! History bit is set to 00 now.
+468---60498 address is not in the cache. Miss! History bit is set to 00 now.
+469---9237 address is not in the cache. Miss! History bit is set to 00 now.
+470---47706 address is not in the cache. Miss! History bit is set to 00 now.
+471---43973 address is not in the cache. Miss! History bit is set to 00 now.
+472---42008 address is not in the cache. Miss! History bit is set to 00 now.
+473---27460 address is not in the cache. Miss! History bit is set to 00 now.
+474---24999 address is not in the cache. Miss! History bit is set to 00 now.
+475---42090 address is in the cache. Hit!  History bit is set to 01 now.
+476---46388 address is in the cache. Hit!  History bit is set to 11 now.
+477---63650 address is in the cache. Hit!  History bit is set to 01 now.
+478---36636 address is in the cache. Hit!  History bit is set to 01 now.
+479---21947 address is in the cache. Hit!  History bit is set to 01 now.
+480---19833 address is in the cache. Hit!  History bit is set to 01 now.
+History reset due to frequency count reach!
+481---36464 address is in the cache. Hit!  History bit is set to 01 now.
+482---8541 address is in the cache. Hit!  History bit is set to 01 now.
+483---12712 address is in the cache. Hit!  History bit is set to 01 now.
+484---48955 address is in the cache. Hit!  History bit is set to 01 now.
+485---39206 address is in the cache. Hit!  History bit is set to 01 now.
+486---15578 address is in the cache. Hit!  History bit is set to 01 now.
+487---49205 address is in the cache. Hit!  History bit is set to 01 now.
+488---7731 address is in the cache. Hit!  History bit is set to 01 now.
+489---43046 address is in the cache. Hit!  History bit is set to 01 now.
+490---60498 address is in the cache. Hit!  History bit is set to 01 now.
+491---9237 address is in the cache. Hit!  History bit is set to 01 now.
+492---47706 address is in the cache. Hit!  History bit is set to 01 now.
+493---43973 address is in the cache. Hit!  History bit is set to 01 now.
+494---42008 address is in the cache. Hit!  History bit is set to 01 now.
+495---27460 address is in the cache. Hit!  History bit is set to 01 now.
+496---24999 address is in the cache. Hit!  History bit is set to 01 now.
+497---51933 address is not in the cache. Miss! History bit is set to 00 now.
+498---34070 address is not in the cache. Miss! History bit is set to 00 now.
+499---65155 address is not in the cache. Miss! History bit is set to 00 now.
+500---59955 address is not in the cache. Miss! History bit is set to 00 now.
+501---9277 address is not in the cache. Miss! History bit is set to 00 now.
+502---20420 address is not in the cache. Miss! History bit is set to 00 now.
+503---44860 address is not in the cache. Miss! History bit is set to 00 now.
+504---50992 address is not in the cache. Miss! History bit is set to 00 now.
+505---10583 address is not in the cache. Miss! History bit is set to 00 now.
+506---6029 address is in the cache. Hit!  History bit is set to 01 now.
+507---20920 address is in the cache. Hit!  History bit is set to 01 now.
+508---8077 address is in the cache. Hit!  History bit is set to 01 now.
+509---42633 address is in the cache. Hit!  History bit is set to 01 now.
+510---17443 address is in the cache. Hit!  History bit is set to 01 now.
+511---53570 address is in the cache. Hit!  History bit is set to 01 now.
+512---22833 address is in the cache. Hit!  History bit is set to 01 now.
+513---3782 address is in the cache. Hit!  History bit is set to 01 now.
+514---47758 address is in the cache. Hit!  History bit is set to 01 now.
+515---22136 address is in the cache. Hit!  History bit is set to 01 now.
+516---22427 address is in the cache. Hit!  History bit is set to 01 now.
+517---23867 address is in the cache. Hit!  History bit is set to 01 now.
+518---59968 address is in the cache. Hit!  History bit is set to 01 now.
+519---62166 address is in the cache. Hit!  History bit is set to 01 now.
+520---6972 address is in the cache. Hit!  History bit is set to 01 now.
+History reset due to frequency count reach!
+521---63684 address is in the cache. Hit!  History bit is set to 01 now.
+522---46388 address is in the cache. Hit!  History bit is set to 01 now.
+523---41942 address is in the cache. Hit!  History bit is set to 01 now.
+524---36524 address is in the cache. Hit!  History bit is set to 01 now.
+525---9323 address is in the cache. Hit!  History bit is set to 01 now.
+526---31114 address is in the cache. Hit!  History bit is set to 01 now.
+527---22345 address is in the cache. Hit!  History bit is set to 01 now.
+528---46463 address is in the cache. Hit!  History bit is set to 01 now.
+529---54671 address is in the cache. Hit!  History bit is set to 01 now.
+530---9214 address is in the cache. Hit!  History bit is set to 01 now.
+531---7257 address is in the cache. Hit!  History bit is set to 01 now.
+532---33150 address is in the cache. Hit!  History bit is set to 01 now.
+533---41565 address is in the cache. Hit!  History bit is set to 01 now.
+534---26214 address is in the cache. Hit!  History bit is set to 01 now.
+535---3595 address is in the cache. Hit!  History bit is set to 01 now.
+536---17932 address is in the cache. Hit!  History bit is set to 01 now.
+537---34660 address is in the cache. Hit!  History bit is set to 01 now.
+538---51961 address is in the cache. Hit!  History bit is set to 01 now.
+539---58634 address is in the cache. Hit!  History bit is set to 01 now.
+540---57990 address is in the cache. Hit!  History bit is set to 01 now.
+541---28848 address is in the cache. Hit!  History bit is set to 01 now.
+542---49920 address is in the cache. Hit!  History bit is set to 01 now.
+543---18351 address is in the cache. Hit!  History bit is set to 01 now.
+544---53669 address is in the cache. Hit!  History bit is set to 01 now.
+545---33996 address is in the cache. Hit!  History bit is set to 01 now.
+546---6741 address is in the cache. Hit!  History bit is set to 01 now.
+547---64098 address is in the cache. Hit!  History bit is set to 01 now.
+548---606 address is in the cache. Hit!  History bit is set to 01 now.
+549---27383 address is in the cache. Hit!  History bit is set to 01 now.
+550---63140 address is not in the cache. Miss! History bit is set to 00 now.
+551---32228 address is not in the cache. Miss! History bit is set to 00 now.
+552---63437 address is in the cache. Hit!  History bit is set to 01 now.
+553---29085 address is not in the cache. Miss! History bit is set to 00 now.
+554---51933 address is in the cache. Hit!  History bit is set to 01 now.
+555---34070 address is in the cache. Hit!  History bit is set to 01 now.
+556---65155 address is in the cache. Hit!  History bit is set to 01 now.
+557---59955 address is in the cache. Hit!  History bit is set to 01 now.
+558---65080 address is in the cache. Hit!  History bit is set to 01 now.
+559---38753 address is in the cache. Hit!  History bit is set to 01 now.
+560---16041 address is in the cache. Hit!  History bit is set to 01 now.
+History reset due to frequency count reach!
+561---9041 address is in the cache. Hit!  History bit is set to 01 now.
+562---42090 address is in the cache. Hit!  History bit is set to 01 now.
+563---41565 address is in the cache. Hit!  History bit is set to 01 now.
+564---26214 address is in the cache. Hit!  History bit is set to 01 now.
+565---3595 address is in the cache. Hit!  History bit is set to 01 now.
+566---17932 address is in the cache. Hit!  History bit is set to 01 now.
+567---34660 address is in the cache. Hit!  History bit is set to 01 now.
+568---51961 address is in the cache. Hit!  History bit is set to 01 now.
+569---58634 address is in the cache. Hit!  History bit is set to 01 now.
+570---57990 address is in the cache. Hit!  History bit is set to 01 now.
+571---28848 address is in the cache. Hit!  History bit is set to 01 now.
+572---49920 address is in the cache. Hit!  History bit is set to 01 now.
+573---18351 address is in the cache. Hit!  History bit is set to 01 now.
+574---53669 address is in the cache. Hit!  History bit is set to 01 now.
+575---33996 address is in the cache. Hit!  History bit is set to 01 now.
+576---6741 address is in the cache. Hit!  History bit is set to 01 now.
+577---64098 address is in the cache. Hit!  History bit is set to 01 now.
+578---606 address is in the cache. Hit!  History bit is set to 01 now.
+579---27383 address is in the cache. Hit!  History bit is set to 01 now.
+580---63140 address is not in the cache. Miss! History bit is set to 00 now.
+581---32228 address is not in the cache. Miss! History bit is set to 00 now.
+582---63437 address is in the cache. Hit!  History bit is set to 01 now.
+583---29085 address is in the cache. Hit!  History bit is set to 01 now.
+584---51933 address is in the cache. Hit!  History bit is set to 01 now.
+585---34070 address is in the cache. Hit!  History bit is set to 01 now.
+586---65155 address is in the cache. Hit!  History bit is set to 01 now.
+587---59955 address is in the cache. Hit!  History bit is set to 01 now.
+588---65080 address is in the cache. Hit!  History bit is set to 01 now.
+589---38753 address is in the cache. Hit!  History bit is set to 01 now.
+590---16041 address is in the cache. Hit!  History bit is set to 01 now.
+591---9041 address is in the cache. Hit!  History bit is set to 11 now.
+592---42090 address is in the cache. Hit!  History bit is set to 11 now.
+593---46388 address is in the cache. Hit!  History bit is set to 01 now.
+594---63650 address is in the cache. Hit!  History bit is set to 01 now.
+595---36636 address is in the cache. Hit!  History bit is set to 01 now.
+596---21947 address is in the cache. Hit!  History bit is set to 01 now.
+597---19833 address is in the cache. Hit!  History bit is set to 01 now.
+598---36464 address is in the cache. Hit!  History bit is set to 01 now.
+599---8541 address is not in the cache. Miss! History bit is set to 00 now.
+600---12712 address is in the cache. Hit!  History bit is set to 01 now.
+History reset due to frequency count reach!
+601---48955 address is in the cache. Hit!  History bit is set to 01 now.
+602---39206 address is in the cache. Hit!  History bit is set to 01 now.
+603---15578 address is in the cache. Hit!  History bit is set to 01 now.
+604---49205 address is in the cache. Hit!  History bit is set to 01 now.
+605---7731 address is in the cache. Hit!  History bit is set to 01 now.
+606---43046 address is in the cache. Hit!  History bit is set to 01 now.
+607---60498 address is in the cache. Hit!  History bit is set to 01 now.
+608---9237 address is in the cache. Hit!  History bit is set to 01 now.
+609---47706 address is in the cache. Hit!  History bit is set to 01 now.
+610---43973 address is in the cache. Hit!  History bit is set to 01 now.
+611---42008 address is in the cache. Hit!  History bit is set to 01 now.
+612---27460 address is in the cache. Hit!  History bit is set to 01 now.
+613---24999 address is in the cache. Hit!  History bit is set to 01 now.
+614---9277 address is in the cache. Hit!  History bit is set to 01 now.
+615---65080 address is in the cache. Hit!  History bit is set to 01 now.
+616---38753 address is in the cache. Hit!  History bit is set to 01 now.
+617---16041 address is in the cache. Hit!  History bit is set to 01 now.
+618---9041 address is in the cache. Hit!  History bit is set to 01 now.
+619---42090 address is in the cache. Hit!  History bit is set to 01 now.
+620---46388 address is in the cache. Hit!  History bit is set to 01 now.
+621---63650 address is in the cache. Hit!  History bit is set to 01 now.
+622---36636 address is in the cache. Hit!  History bit is set to 01 now.
+623---21947 address is in the cache. Hit!  History bit is set to 01 now.
+624---19833 address is in the cache. Hit!  History bit is set to 01 now.
+625---36464 address is in the cache. Hit!  History bit is set to 01 now.
+626---8541 address is in the cache. Hit!  History bit is set to 01 now.
+627---12712 address is in the cache. Hit!  History bit is set to 01 now.
+628---48955 address is in the cache. Hit!  History bit is set to 11 now.
+629---39206 address is in the cache. Hit!  History bit is set to 11 now.
+630---15578 address is in the cache. Hit!  History bit is set to 11 now.
+631---49205 address is in the cache. Hit!  History bit is set to 11 now.
+632---7731 address is in the cache. Hit!  History bit is set to 11 now.
+633---43046 address is in the cache. Hit!  History bit is set to 11 now.
+634---60498 address is in the cache. Hit!  History bit is set to 11 now.
+635---9237 address is in the cache. Hit!  History bit is set to 11 now.
+636---47706 address is in the cache. Hit!  History bit is set to 11 now.
+637---43973 address is in the cache. Hit!  History bit is set to 11 now.
+638---42008 address is in the cache. Hit!  History bit is set to 11 now.
+639---27460 address is in the cache. Hit!  History bit is set to 11 now.
+640---24999 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+641---20420 address is in the cache. Hit!  History bit is set to 01 now.
+642---44860 address is in the cache. Hit!  History bit is set to 01 now.
+643---50992 address is in the cache. Hit!  History bit is set to 01 now.
+644---10583 address is in the cache. Hit!  History bit is set to 01 now.
+645---65080 address is in the cache. Hit!  History bit is set to 01 now.
+646---38753 address is in the cache. Hit!  History bit is set to 01 now.
+647---16041 address is in the cache. Hit!  History bit is set to 01 now.
+648---9041 address is in the cache. Hit!  History bit is set to 01 now.
+649---42090 address is in the cache. Hit!  History bit is set to 01 now.
+650---46388 address is in the cache. Hit!  History bit is set to 01 now.
+651---63650 address is in the cache. Hit!  History bit is set to 01 now.
+652---36636 address is in the cache. Hit!  History bit is set to 01 now.
+653---21947 address is in the cache. Hit!  History bit is set to 01 now.
+654---19833 address is in the cache. Hit!  History bit is set to 01 now.
+655---36464 address is in the cache. Hit!  History bit is set to 01 now.
+656---8541 address is in the cache. Hit!  History bit is set to 01 now.
+657---12712 address is in the cache. Hit!  History bit is set to 01 now.
+658---48955 address is in the cache. Hit!  History bit is set to 01 now.
+659---39206 address is in the cache. Hit!  History bit is set to 01 now.
+660---15578 address is in the cache. Hit!  History bit is set to 01 now.
+661---49205 address is in the cache. Hit!  History bit is set to 01 now.
+662---7731 address is in the cache. Hit!  History bit is set to 01 now.
+663---43046 address is in the cache. Hit!  History bit is set to 01 now.
+664---60498 address is in the cache. Hit!  History bit is set to 01 now.
+665---9237 address is in the cache. Hit!  History bit is set to 01 now.
+666---47706 address is in the cache. Hit!  History bit is set to 01 now.
+667---43973 address is in the cache. Hit!  History bit is set to 01 now.
+668---42008 address is in the cache. Hit!  History bit is set to 01 now.
+669---27460 address is in the cache. Hit!  History bit is set to 01 now.
+670---24999 address is in the cache. Hit!  History bit is set to 01 now.
+671---65080 address is in the cache. Hit!  History bit is set to 11 now.
+672---38753 address is in the cache. Hit!  History bit is set to 11 now.
+673---16041 address is in the cache. Hit!  History bit is set to 11 now.
+674---41565 address is in the cache. Hit!  History bit is set to 01 now.
+675---26214 address is in the cache. Hit!  History bit is set to 01 now.
+676---3595 address is in the cache. Hit!  History bit is set to 01 now.
+677---17932 address is in the cache. Hit!  History bit is set to 01 now.
+678---34660 address is in the cache. Hit!  History bit is set to 01 now.
+679---51961 address is in the cache. Hit!  History bit is set to 01 now.
+680---58634 address is in the cache. Hit!  History bit is set to 01 now.
+History reset due to frequency count reach!
+681---57990 address is in the cache. Hit!  History bit is set to 01 now.
+682---28848 address is in the cache. Hit!  History bit is set to 01 now.
+683---49920 address is in the cache. Hit!  History bit is set to 01 now.
+684---18351 address is in the cache. Hit!  History bit is set to 01 now.
+685---53669 address is in the cache. Hit!  History bit is set to 01 now.
+686---33996 address is in the cache. Hit!  History bit is set to 01 now.
+687---6741 address is in the cache. Hit!  History bit is set to 01 now.
+688---64098 address is in the cache. Hit!  History bit is set to 01 now.
+689---606 address is in the cache. Hit!  History bit is set to 01 now.
+690---27383 address is in the cache. Hit!  History bit is set to 01 now.
+691---63140 address is not in the cache. Miss! History bit is set to 00 now.
+692---32228 address is not in the cache. Miss! History bit is set to 00 now.
+693---63437 address is in the cache. Hit!  History bit is set to 01 now.
+694---29085 address is in the cache. Hit!  History bit is set to 01 now.
+695---51933 address is in the cache. Hit!  History bit is set to 01 now.
+696---34070 address is in the cache. Hit!  History bit is set to 01 now.
+697---65155 address is in the cache. Hit!  History bit is set to 01 now.
+698---59955 address is in the cache. Hit!  History bit is set to 01 now.
+699---65080 address is in the cache. Hit!  History bit is set to 01 now.
+700---38753 address is in the cache. Hit!  History bit is set to 01 now.
+701---16041 address is in the cache. Hit!  History bit is set to 01 now.
+702---9041 address is in the cache. Hit!  History bit is set to 01 now.
+703---42090 address is in the cache. Hit!  History bit is set to 01 now.
+704---9041 address is in the cache. Hit!  History bit is set to 11 now.
+705---42090 address is in the cache. Hit!  History bit is set to 11 now.
+706---46388 address is in the cache. Hit!  History bit is set to 01 now.
+707---63650 address is in the cache. Hit!  History bit is set to 01 now.
+708---36636 address is in the cache. Hit!  History bit is set to 01 now.
+709---21947 address is in the cache. Hit!  History bit is set to 01 now.
+710---19833 address is in the cache. Hit!  History bit is set to 01 now.
+711---36464 address is in the cache. Hit!  History bit is set to 01 now.
+712---8541 address is in the cache. Hit!  History bit is set to 01 now.
+713---12712 address is in the cache. Hit!  History bit is set to 01 now.
+714---48955 address is in the cache. Hit!  History bit is set to 01 now.
+715---39206 address is in the cache. Hit!  History bit is set to 01 now.
+716---15578 address is in the cache. Hit!  History bit is set to 01 now.
+717---49205 address is in the cache. Hit!  History bit is set to 01 now.
+718---7731 address is in the cache. Hit!  History bit is set to 01 now.
+719---43046 address is in the cache. Hit!  History bit is set to 01 now.
+720---60498 address is in the cache. Hit!  History bit is set to 01 now.
+History reset due to frequency count reach!
+721---9237 address is in the cache. Hit!  History bit is set to 01 now.
+722---47706 address is in the cache. Hit!  History bit is set to 01 now.
+723---43973 address is in the cache. Hit!  History bit is set to 01 now.
+724---42008 address is in the cache. Hit!  History bit is set to 01 now.
+725---27460 address is in the cache. Hit!  History bit is set to 01 now.
+726---24999 address is in the cache. Hit!  History bit is set to 01 now.
+727---63650 address is in the cache. Hit!  History bit is set to 01 now.
+728---36636 address is in the cache. Hit!  History bit is set to 01 now.
+729---21947 address is in the cache. Hit!  History bit is set to 01 now.
+730---19833 address is in the cache. Hit!  History bit is set to 01 now.
+731---36464 address is in the cache. Hit!  History bit is set to 01 now.
+732---8541 address is in the cache. Hit!  History bit is set to 01 now.
+733---12712 address is in the cache. Hit!  History bit is set to 01 now.
+734---48955 address is in the cache. Hit!  History bit is set to 01 now.
+735---39206 address is in the cache. Hit!  History bit is set to 01 now.
+736---15578 address is in the cache. Hit!  History bit is set to 01 now.
+737---49205 address is in the cache. Hit!  History bit is set to 01 now.
+738---7731 address is in the cache. Hit!  History bit is set to 01 now.
+739---43046 address is in the cache. Hit!  History bit is set to 01 now.
+740---60498 address is in the cache. Hit!  History bit is set to 01 now.
+741---9237 address is in the cache. Hit!  History bit is set to 11 now.
+742---47706 address is in the cache. Hit!  History bit is set to 11 now.
+743---43973 address is in the cache. Hit!  History bit is set to 11 now.
+744---42008 address is in the cache. Hit!  History bit is set to 11 now.
+745---27460 address is in the cache. Hit!  History bit is set to 11 now.
+746---24999 address is in the cache. Hit!  History bit is set to 11 now.
+747---65080 address is in the cache. Hit!  History bit is set to 01 now.
+748---38753 address is in the cache. Hit!  History bit is set to 01 now.
+749---16041 address is in the cache. Hit!  History bit is set to 01 now.
+750---9041 address is in the cache. Hit!  History bit is set to 01 now.
+751---42090 address is in the cache. Hit!  History bit is set to 01 now.
+752---46388 address is in the cache. Hit!  History bit is set to 01 now.
+753---63650 address is in the cache. Hit!  History bit is set to 11 now.
+754---36636 address is in the cache. Hit!  History bit is set to 11 now.
+755---21947 address is in the cache. Hit!  History bit is set to 11 now.
+756---19833 address is in the cache. Hit!  History bit is set to 11 now.
+757---36464 address is in the cache. Hit!  History bit is set to 11 now.
+758---8541 address is in the cache. Hit!  History bit is set to 11 now.
+759---12712 address is in the cache. Hit!  History bit is set to 11 now.
+760---48955 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+761---39206 address is in the cache. Hit!  History bit is set to 01 now.
+762---15578 address is in the cache. Hit!  History bit is set to 01 now.
+763---49205 address is in the cache. Hit!  History bit is set to 01 now.
+764---7731 address is in the cache. Hit!  History bit is set to 01 now.
+765---43046 address is in the cache. Hit!  History bit is set to 01 now.
+766---60498 address is in the cache. Hit!  History bit is set to 01 now.
+767---9237 address is in the cache. Hit!  History bit is set to 01 now.
+768---42090 address is in the cache. Hit!  History bit is set to 01 now.
+769---46388 address is in the cache. Hit!  History bit is set to 01 now.
+770---63650 address is in the cache. Hit!  History bit is set to 01 now.
+771---36636 address is in the cache. Hit!  History bit is set to 01 now.
+772---21947 address is in the cache. Hit!  History bit is set to 01 now.
+773---19833 address is in the cache. Hit!  History bit is set to 01 now.
+774---36464 address is in the cache. Hit!  History bit is set to 01 now.
+775---8541 address is in the cache. Hit!  History bit is set to 01 now.
+776---12712 address is in the cache. Hit!  History bit is set to 01 now.
+777---48955 address is in the cache. Hit!  History bit is set to 01 now.
+778---39206 address is in the cache. Hit!  History bit is set to 11 now.
+779---15578 address is in the cache. Hit!  History bit is set to 11 now.
+780---49205 address is in the cache. Hit!  History bit is set to 11 now.
+781---7731 address is in the cache. Hit!  History bit is set to 11 now.
+782---43046 address is in the cache. Hit!  History bit is set to 11 now.
+783---60498 address is in the cache. Hit!  History bit is set to 11 now.
+784---9237 address is in the cache. Hit!  History bit is set to 11 now.
+785---47706 address is in the cache. Hit!  History bit is set to 01 now.
+786---43973 address is in the cache. Hit!  History bit is set to 01 now.
+787---42008 address is in the cache. Hit!  History bit is set to 01 now.
+788---27460 address is in the cache. Hit!  History bit is set to 01 now.
+789---24999 address is in the cache. Hit!  History bit is set to 01 now.
+790---47706 address is in the cache. Hit!  History bit is set to 11 now.
+791---43973 address is in the cache. Hit!  History bit is set to 11 now.
+792---42008 address is in the cache. Hit!  History bit is set to 11 now.
+793---27460 address is in the cache. Hit!  History bit is set to 11 now.
+794---24999 address is in the cache. Hit!  History bit is set to 11 now.
+795---63650 address is in the cache. Hit!  History bit is set to 11 now.
+796---36636 address is in the cache. Hit!  History bit is set to 11 now.
+797---21947 address is in the cache. Hit!  History bit is set to 11 now.
+798---19833 address is in the cache. Hit!  History bit is set to 11 now.
+799---36464 address is in the cache. Hit!  History bit is set to 11 now.
+800---8541 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+801---12712 address is in the cache. Hit!  History bit is set to 01 now.
+802---48955 address is in the cache. Hit!  History bit is set to 01 now.
+803---39206 address is in the cache. Hit!  History bit is set to 01 now.
+804---15578 address is in the cache. Hit!  History bit is set to 01 now.
+805---49205 address is in the cache. Hit!  History bit is set to 01 now.
+806---7731 address is in the cache. Hit!  History bit is set to 01 now.
+807---43046 address is in the cache. Hit!  History bit is set to 01 now.
+808---60498 address is in the cache. Hit!  History bit is set to 01 now.
+809---9237 address is in the cache. Hit!  History bit is set to 01 now.
+810---47706 address is in the cache. Hit!  History bit is set to 01 now.
+811---43973 address is in the cache. Hit!  History bit is set to 01 now.
+812---42008 address is in the cache. Hit!  History bit is set to 01 now.
+813---27460 address is in the cache. Hit!  History bit is set to 01 now.
+814---24999 address is in the cache. Hit!  History bit is set to 01 now.
+815---65080 address is in the cache. Hit!  History bit is set to 01 now.
+816---38753 address is in the cache. Hit!  History bit is set to 01 now.
+817---16041 address is in the cache. Hit!  History bit is set to 01 now.
+818---9041 address is in the cache. Hit!  History bit is set to 01 now.
+819---42090 address is in the cache. Hit!  History bit is set to 01 now.
+820---46388 address is in the cache. Hit!  History bit is set to 01 now.
+821---63650 address is in the cache. Hit!  History bit is set to 01 now.
+822---41565 address is in the cache. Hit!  History bit is set to 01 now.
+823---26214 address is in the cache. Hit!  History bit is set to 01 now.
+824---3595 address is in the cache. Hit!  History bit is set to 01 now.
+825---17932 address is in the cache. Hit!  History bit is set to 01 now.
+826---34660 address is in the cache. Hit!  History bit is set to 01 now.
+827---51961 address is in the cache. Hit!  History bit is set to 01 now.
+828---58634 address is in the cache. Hit!  History bit is set to 01 now.
+829---57990 address is in the cache. Hit!  History bit is set to 01 now.
+830---28848 address is in the cache. Hit!  History bit is set to 01 now.
+831---49920 address is in the cache. Hit!  History bit is set to 01 now.
+832---18351 address is in the cache. Hit!  History bit is set to 01 now.
+833---53669 address is in the cache. Hit!  History bit is set to 01 now.
+834---33996 address is in the cache. Hit!  History bit is set to 01 now.
+835---6741 address is in the cache. Hit!  History bit is set to 01 now.
+836---64098 address is in the cache. Hit!  History bit is set to 01 now.
+837---606 address is in the cache. Hit!  History bit is set to 01 now.
+838---27383 address is in the cache. Hit!  History bit is set to 01 now.
+839---63140 address is not in the cache. Miss! History bit is set to 00 now.
+840---32228 address is not in the cache. Miss! History bit is set to 00 now.
+History reset due to frequency count reach!
+841---63437 address is in the cache. Hit!  History bit is set to 01 now.
+842---29085 address is in the cache. Hit!  History bit is set to 01 now.
+843---51933 address is in the cache. Hit!  History bit is set to 01 now.
+844---34070 address is in the cache. Hit!  History bit is set to 01 now.
+845---65155 address is in the cache. Hit!  History bit is set to 01 now.
+846---59955 address is in the cache. Hit!  History bit is set to 01 now.
+847---65080 address is in the cache. Hit!  History bit is set to 01 now.
+848---38753 address is in the cache. Hit!  History bit is set to 01 now.
+849---16041 address is in the cache. Hit!  History bit is set to 01 now.
+850---9041 address is in the cache. Hit!  History bit is set to 01 now.
+851---42090 address is in the cache. Hit!  History bit is set to 01 now.
+852---36636 address is in the cache. Hit!  History bit is set to 01 now.
+853---21947 address is in the cache. Hit!  History bit is set to 01 now.
+854---19833 address is in the cache. Hit!  History bit is set to 01 now.
+855---36464 address is in the cache. Hit!  History bit is set to 01 now.
+856---8541 address is in the cache. Hit!  History bit is set to 01 now.
+857---12712 address is in the cache. Hit!  History bit is set to 01 now.
+858---48955 address is in the cache. Hit!  History bit is set to 01 now.
+859---606 address is in the cache. Hit!  History bit is set to 01 now.
+860---27383 address is in the cache. Hit!  History bit is set to 01 now.
+861---63140 address is not in the cache. Miss! History bit is set to 00 now.
+862---32228 address is not in the cache. Miss! History bit is set to 00 now.
+863---63437 address is in the cache. Hit!  History bit is set to 11 now.
+864---29085 address is in the cache. Hit!  History bit is set to 11 now.
+865---51933 address is in the cache. Hit!  History bit is set to 11 now.
+866---34070 address is in the cache. Hit!  History bit is set to 11 now.
+867---65155 address is in the cache. Hit!  History bit is set to 11 now.
+868---59955 address is in the cache. Hit!  History bit is set to 11 now.
+869---65080 address is in the cache. Hit!  History bit is set to 11 now.
+870---38753 address is in the cache. Hit!  History bit is set to 11 now.
+871---16041 address is in the cache. Hit!  History bit is set to 11 now.
+872---9041 address is in the cache. Hit!  History bit is set to 11 now.
+873---42090 address is in the cache. Hit!  History bit is set to 11 now.
+874---36636 address is in the cache. Hit!  History bit is set to 11 now.
+875---21947 address is in the cache. Hit!  History bit is set to 11 now.
+876---19833 address is in the cache. Hit!  History bit is set to 11 now.
+877---36464 address is in the cache. Hit!  History bit is set to 11 now.
+878---8541 address is in the cache. Hit!  History bit is set to 11 now.
+879---12712 address is in the cache. Hit!  History bit is set to 11 now.
+880---48955 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+881---606 address is in the cache. Hit!  History bit is set to 01 now.
+882---27383 address is in the cache. Hit!  History bit is set to 01 now.
+883---63140 address is not in the cache. Miss! History bit is set to 00 now.
+884---32228 address is not in the cache. Miss! History bit is set to 00 now.
+885---63437 address is in the cache. Hit!  History bit is set to 01 now.
+886---29085 address is in the cache. Hit!  History bit is set to 01 now.
+887---51933 address is in the cache. Hit!  History bit is set to 01 now.
+888---34070 address is in the cache. Hit!  History bit is set to 01 now.
+889---65155 address is in the cache. Hit!  History bit is set to 01 now.
+890---59955 address is in the cache. Hit!  History bit is set to 01 now.
+891---65080 address is in the cache. Hit!  History bit is set to 01 now.
+892---38753 address is in the cache. Hit!  History bit is set to 01 now.
+893---16041 address is in the cache. Hit!  History bit is set to 01 now.
+894---9041 address is in the cache. Hit!  History bit is set to 01 now.
+895---42090 address is in the cache. Hit!  History bit is set to 01 now.
+896---36636 address is in the cache. Hit!  History bit is set to 01 now.
+897---21947 address is in the cache. Hit!  History bit is set to 01 now.
+898---19833 address is in the cache. Hit!  History bit is set to 01 now.
+899---36464 address is in the cache. Hit!  History bit is set to 01 now.
+900---8541 address is in the cache. Hit!  History bit is set to 01 now.
+901---12712 address is in the cache. Hit!  History bit is set to 01 now.
+902---48955 address is in the cache. Hit!  History bit is set to 01 now.
+903---39206 address is in the cache. Hit!  History bit is set to 01 now.
+904---15578 address is in the cache. Hit!  History bit is set to 01 now.
+905---49205 address is in the cache. Hit!  History bit is set to 01 now.
+906---7731 address is in the cache. Hit!  History bit is set to 01 now.
+907---43046 address is in the cache. Hit!  History bit is set to 01 now.
+908---60498 address is in the cache. Hit!  History bit is set to 01 now.
+909---9237 address is in the cache. Hit!  History bit is set to 01 now.
+910---47706 address is in the cache. Hit!  History bit is set to 01 now.
+911---43973 address is in the cache. Hit!  History bit is set to 01 now.
+912---42008 address is in the cache. Hit!  History bit is set to 01 now.
+913---27460 address is in the cache. Hit!  History bit is set to 01 now.
+914---24999 address is in the cache. Hit!  History bit is set to 01 now.
+915---28928 address is not in the cache. Miss! History bit is set to 00 now.
+916---30711 address is in the cache. Hit!  History bit is set to 01 now.
+917---41565 address is in the cache. Hit!  History bit is set to 01 now.
+918---26214 address is in the cache. Hit!  History bit is set to 01 now.
+919---3595 address is in the cache. Hit!  History bit is set to 01 now.
+920---17932 address is in the cache. Hit!  History bit is set to 01 now.
+History reset due to frequency count reach!
+921---34660 address is in the cache. Hit!  History bit is set to 01 now.
+922---51961 address is in the cache. Hit!  History bit is set to 01 now.
+923---58634 address is in the cache. Hit!  History bit is set to 01 now.
+924---57990 address is in the cache. Hit!  History bit is set to 01 now.
+925---28848 address is in the cache. Hit!  History bit is set to 01 now.
+926---49920 address is not in the cache. Miss! History bit is set to 00 now.
+927---18351 address is in the cache. Hit!  History bit is set to 01 now.
+928---53669 address is in the cache. Hit!  History bit is set to 01 now.
+929---33996 address is in the cache. Hit!  History bit is set to 01 now.
+930---6741 address is in the cache. Hit!  History bit is set to 01 now.
+931---64098 address is in the cache. Hit!  History bit is set to 01 now.
+932---606 address is in the cache. Hit!  History bit is set to 01 now.
+933---27383 address is in the cache. Hit!  History bit is set to 01 now.
+934---63140 address is not in the cache. Miss! History bit is set to 00 now.
+935---32228 address is not in the cache. Miss! History bit is set to 00 now.
+936---63437 address is in the cache. Hit!  History bit is set to 01 now.
+937---29085 address is in the cache. Hit!  History bit is set to 01 now.
+938---51933 address is in the cache. Hit!  History bit is set to 01 now.
+939---34070 address is in the cache. Hit!  History bit is set to 01 now.
+940---65155 address is in the cache. Hit!  History bit is set to 01 now.
+941---59955 address is in the cache. Hit!  History bit is set to 01 now.
+942---65080 address is in the cache. Hit!  History bit is set to 01 now.
+943---38753 address is in the cache. Hit!  History bit is set to 01 now.
+944---16041 address is in the cache. Hit!  History bit is set to 01 now.
+945---9041 address is in the cache. Hit!  History bit is set to 01 now.
+946---42090 address is in the cache. Hit!  History bit is set to 01 now.
+947---8800 address is in the cache. Hit!  History bit is set to 01 now.
+948---52335 address is in the cache. Hit!  History bit is set to 01 now.
+949---38775 address is in the cache. Hit!  History bit is set to 01 now.
+950---52704 address is in the cache. Hit!  History bit is set to 01 now.
+951---24380 address is in the cache. Hit!  History bit is set to 01 now.
+952---19602 address is in the cache. Hit!  History bit is set to 01 now.
+953---57998 address is in the cache. Hit!  History bit is set to 01 now.
+954---2919 address is in the cache. Hit!  History bit is set to 01 now.
+955---8362 address is in the cache. Hit!  History bit is set to 01 now.
+956---17884 address is in the cache. Hit!  History bit is set to 01 now.
+957---45737 address is not in the cache. Miss! History bit is set to 00 now.
+958---47894 address is in the cache. Hit!  History bit is set to 01 now.
+959---59667 address is in the cache. Hit!  History bit is set to 01 now.
+960---10385 address is not in the cache. Miss! History bit is set to 00 now.
+History reset due to frequency count reach!
+961---52782 address is in the cache. Hit!  History bit is set to 01 now.
+962---64416 address is in the cache. Hit!  History bit is set to 01 now.
+963---40946 address is in the cache. Hit!  History bit is set to 01 now.
+964---16778 address is in the cache. Hit!  History bit is set to 01 now.
+965---27159 address is in the cache. Hit!  History bit is set to 01 now.
+966---38669 address is not in the cache. Miss! History bit is set to 00 now.
+967---45637 address is in the cache. Hit!  History bit is set to 01 now.
+968---43151 address is in the cache. Hit!  History bit is set to 01 now.
+969---9465 address is in the cache. Hit!  History bit is set to 01 now.
+970---2498 address is in the cache. Hit!  History bit is set to 01 now.
+971---13978 address is in the cache. Hit!  History bit is set to 01 now.
+972---16326 address is in the cache. Hit!  History bit is set to 01 now.
+973---51442 address is in the cache. Hit!  History bit is set to 01 now.
+974---34845 address is not in the cache. Miss! History bit is set to 00 now.
+975---63667 address is in the cache. Hit!  History bit is set to 01 now.
+976---39370 address is in the cache. Hit!  History bit is set to 01 now.
+977---55671 address is in the cache. Hit!  History bit is set to 01 now.
+978---64496 address is not in the cache. Miss! History bit is set to 00 now.
+979---28928 address is not in the cache. Miss! History bit is set to 00 now.
+980---30711 address is in the cache. Hit!  History bit is set to 01 now.
+981---8800 address is in the cache. Hit!  History bit is set to 01 now.
+982---52335 address is in the cache. Hit!  History bit is set to 01 now.
+983---38775 address is in the cache. Hit!  History bit is set to 01 now.
+984---52704 address is in the cache. Hit!  History bit is set to 01 now.
+985---24380 address is in the cache. Hit!  History bit is set to 01 now.
+986---19602 address is in the cache. Hit!  History bit is set to 01 now.
+987---57998 address is in the cache. Hit!  History bit is set to 01 now.
+988---2919 address is in the cache. Hit!  History bit is set to 01 now.
+989---8362 address is in the cache. Hit!  History bit is set to 01 now.
+990---17884 address is in the cache. Hit!  History bit is set to 01 now.
+991---45737 address is in the cache. Hit!  History bit is set to 01 now.
+992---47894 address is in the cache. Hit!  History bit is set to 01 now.
+993---59667 address is in the cache. Hit!  History bit is set to 01 now.
+994---10385 address is in the cache. Hit!  History bit is set to 01 now.
+995---52782 address is in the cache. Hit!  History bit is set to 11 now.
+996---64416 address is in the cache. Hit!  History bit is set to 11 now.
+997---40946 address is in the cache. Hit!  History bit is set to 11 now.
+998---16778 address is in the cache. Hit!  History bit is set to 11 now.
+999---27159 address is in the cache. Hit!  History bit is set to 11 now.
+1000---38669 address is in the cache. Hit!  History bit is set to 01 now.
+History reset due to frequency count reach!
+1001---45637 address is in the cache. Hit!  History bit is set to 01 now.
+1002---43151 address is in the cache. Hit!  History bit is set to 01 now.
+1003---9465 address is in the cache. Hit!  History bit is set to 01 now.
+1004---2498 address is in the cache. Hit!  History bit is set to 01 now.
+1005---13978 address is in the cache. Hit!  History bit is set to 01 now.
+1006---16326 address is in the cache. Hit!  History bit is set to 01 now.
+1007---51442 address is in the cache. Hit!  History bit is set to 01 now.
+1008---34845 address is in the cache. Hit!  History bit is set to 01 now.
+1009---63667 address is in the cache. Hit!  History bit is set to 01 now.
+1010---39370 address is in the cache. Hit!  History bit is set to 01 now.
+1011---55671 address is in the cache. Hit!  History bit is set to 01 now.
+1012---64496 address is in the cache. Hit!  History bit is set to 01 now.
+1013---28928 address is in the cache. Hit!  History bit is set to 01 now.
+1014---30711 address is in the cache. Hit!  History bit is set to 01 now.
+1015---8800 address is in the cache. Hit!  History bit is set to 01 now.
+1016---52335 address is in the cache. Hit!  History bit is set to 01 now.
+1017---38775 address is in the cache. Hit!  History bit is set to 01 now.
+1018---52704 address is in the cache. Hit!  History bit is set to 01 now.
+1019---24380 address is in the cache. Hit!  History bit is set to 01 now.
+1020---19602 address is in the cache. Hit!  History bit is set to 01 now.
+1021---57998 address is in the cache. Hit!  History bit is set to 01 now.
+1022---2919 address is in the cache. Hit!  History bit is set to 01 now.
+1023---8362 address is in the cache. Hit!  History bit is set to 01 now.
+1024---17884 address is in the cache. Hit!  History bit is set to 01 now.
+1025---45737 address is in the cache. Hit!  History bit is set to 01 now.
+1026---47894 address is in the cache. Hit!  History bit is set to 01 now.
+1027---59667 address is in the cache. Hit!  History bit is set to 01 now.
+1028---10385 address is in the cache. Hit!  History bit is set to 01 now.
+1029---52782 address is in the cache. Hit!  History bit is set to 01 now.
+1030---64416 address is in the cache. Hit!  History bit is set to 01 now.
+1031---40946 address is in the cache. Hit!  History bit is set to 01 now.
+1032---16778 address is in the cache. Hit!  History bit is set to 01 now.
+1033---27159 address is in the cache. Hit!  History bit is set to 01 now.
+1034---38669 address is in the cache. Hit!  History bit is set to 01 now.
+1035---45637 address is in the cache. Hit!  History bit is set to 11 now.
+1036---43151 address is in the cache. Hit!  History bit is set to 11 now.
+1037---9465 address is in the cache. Hit!  History bit is set to 11 now.
+1038---2498 address is in the cache. Hit!  History bit is set to 11 now.
+1039---13978 address is in the cache. Hit!  History bit is set to 11 now.
+1040---16326 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+1041---51442 address is in the cache. Hit!  History bit is set to 01 now.
+1042---34845 address is in the cache. Hit!  History bit is set to 01 now.
+1043---63667 address is in the cache. Hit!  History bit is set to 01 now.
+1044---39370 address is in the cache. Hit!  History bit is set to 01 now.
+1045---55671 address is in the cache. Hit!  History bit is set to 01 now.
+1046---64496 address is in the cache. Hit!  History bit is set to 01 now.
+1047---52335 address is in the cache. Hit!  History bit is set to 01 now.
+1048---38775 address is in the cache. Hit!  History bit is set to 01 now.
+1049---52704 address is in the cache. Hit!  History bit is set to 01 now.
+1050---24380 address is in the cache. Hit!  History bit is set to 01 now.
+1051---19602 address is in the cache. Hit!  History bit is set to 01 now.
+1052---57998 address is in the cache. Hit!  History bit is set to 01 now.
+1053---2919 address is in the cache. Hit!  History bit is set to 01 now.
+1054---8362 address is in the cache. Hit!  History bit is set to 01 now.
+1055---17884 address is in the cache. Hit!  History bit is set to 01 now.
+1056---45737 address is in the cache. Hit!  History bit is set to 01 now.
+1057---47894 address is in the cache. Hit!  History bit is set to 01 now.
+1058---59667 address is in the cache. Hit!  History bit is set to 01 now.
+1059---10385 address is in the cache. Hit!  History bit is set to 01 now.
+1060---52782 address is in the cache. Hit!  History bit is set to 01 now.
+1061---64416 address is in the cache. Hit!  History bit is set to 01 now.
+1062---40946 address is in the cache. Hit!  History bit is set to 01 now.
+1063---16778 address is in the cache. Hit!  History bit is set to 01 now.
+1064---27159 address is in the cache. Hit!  History bit is set to 01 now.
+1065---38669 address is in the cache. Hit!  History bit is set to 01 now.
+1066---45637 address is in the cache. Hit!  History bit is set to 01 now.
+1067---43151 address is in the cache. Hit!  History bit is set to 01 now.
+1068---9465 address is in the cache. Hit!  History bit is set to 01 now.
+1069---2498 address is in the cache. Hit!  History bit is set to 01 now.
+1070---13978 address is in the cache. Hit!  History bit is set to 01 now.
+1071---16326 address is in the cache. Hit!  History bit is set to 01 now.
+1072---51442 address is in the cache. Hit!  History bit is set to 11 now.
+1073---34845 address is in the cache. Hit!  History bit is set to 11 now.
+1074---63667 address is in the cache. Hit!  History bit is set to 11 now.
+1075---39370 address is in the cache. Hit!  History bit is set to 11 now.
+1076---55671 address is in the cache. Hit!  History bit is set to 11 now.
+1077---64496 address is in the cache. Hit!  History bit is set to 11 now.
+1078---28928 address is in the cache. Hit!  History bit is set to 01 now.
+1079---30711 address is in the cache. Hit!  History bit is set to 01 now.
+1080---8800 address is in the cache. Hit!  History bit is set to 01 now.
+History reset due to frequency count reach!
+1081---52335 address is in the cache. Hit!  History bit is set to 01 now.
+1082---38775 address is in the cache. Hit!  History bit is set to 01 now.
+1083---52704 address is in the cache. Hit!  History bit is set to 01 now.
+1084---24380 address is in the cache. Hit!  History bit is set to 01 now.
+1085---19602 address is in the cache. Hit!  History bit is set to 01 now.
+1086---57998 address is in the cache. Hit!  History bit is set to 01 now.
+1087---2919 address is in the cache. Hit!  History bit is set to 01 now.
+1088---8362 address is in the cache. Hit!  History bit is set to 01 now.
+1089---17884 address is in the cache. Hit!  History bit is set to 01 now.
+1090---45737 address is in the cache. Hit!  History bit is set to 01 now.
+1091---47894 address is in the cache. Hit!  History bit is set to 01 now.
+1092---59667 address is in the cache. Hit!  History bit is set to 01 now.
+1093---10385 address is in the cache. Hit!  History bit is set to 01 now.
+1094---52782 address is in the cache. Hit!  History bit is set to 01 now.
+1095---64416 address is in the cache. Hit!  History bit is set to 01 now.
+1096---40946 address is in the cache. Hit!  History bit is set to 01 now.
+1097---16778 address is in the cache. Hit!  History bit is set to 01 now.
+1098---27159 address is in the cache. Hit!  History bit is set to 01 now.
+1099---38669 address is in the cache. Hit!  History bit is set to 01 now.
+1100---45637 address is in the cache. Hit!  History bit is set to 01 now.
+1101---43151 address is in the cache. Hit!  History bit is set to 01 now.
+1102---9465 address is in the cache. Hit!  History bit is set to 01 now.
+1103---52335 address is in the cache. Hit!  History bit is set to 11 now.
+1104---38775 address is in the cache. Hit!  History bit is set to 11 now.
+1105---52704 address is in the cache. Hit!  History bit is set to 11 now.
+1106---24380 address is in the cache. Hit!  History bit is set to 11 now.
+1107---19602 address is in the cache. Hit!  History bit is set to 11 now.
+1108---57998 address is in the cache. Hit!  History bit is set to 11 now.
+1109---2919 address is in the cache. Hit!  History bit is set to 11 now.
+1110---8362 address is in the cache. Hit!  History bit is set to 11 now.
+1111---17884 address is in the cache. Hit!  History bit is set to 11 now.
+1112---45737 address is in the cache. Hit!  History bit is set to 11 now.
+1113---47894 address is in the cache. Hit!  History bit is set to 11 now.
+1114---59667 address is in the cache. Hit!  History bit is set to 11 now.
+1115---10385 address is in the cache. Hit!  History bit is set to 11 now.
+1116---52782 address is in the cache. Hit!  History bit is set to 11 now.
+1117---64416 address is in the cache. Hit!  History bit is set to 11 now.
+1118---40946 address is in the cache. Hit!  History bit is set to 11 now.
+1119---16778 address is in the cache. Hit!  History bit is set to 11 now.
+1120---27159 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+1121---38669 address is in the cache. Hit!  History bit is set to 01 now.
+1122---45637 address is in the cache. Hit!  History bit is set to 01 now.
+1123---43151 address is in the cache. Hit!  History bit is set to 01 now.
+1124---9465 address is in the cache. Hit!  History bit is set to 01 now.
+1125---2498 address is in the cache. Hit!  History bit is set to 01 now.
+1126---13978 address is in the cache. Hit!  History bit is set to 01 now.
+1127---16326 address is in the cache. Hit!  History bit is set to 01 now.
+1128---51442 address is in the cache. Hit!  History bit is set to 01 now.
+1129---34845 address is in the cache. Hit!  History bit is set to 01 now.
+1130---63667 address is in the cache. Hit!  History bit is set to 01 now.
+1131---39370 address is in the cache. Hit!  History bit is set to 01 now.
+1132---55671 address is in the cache. Hit!  History bit is set to 01 now.
+1133---64496 address is in the cache. Hit!  History bit is set to 01 now.
+1134---28928 address is in the cache. Hit!  History bit is set to 01 now.
+1135---30711 address is in the cache. Hit!  History bit is set to 01 now.
+1136---8800 address is in the cache. Hit!  History bit is set to 01 now.
+1137---52335 address is in the cache. Hit!  History bit is set to 01 now.
+1138---38775 address is in the cache. Hit!  History bit is set to 01 now.
+1139---52704 address is in the cache. Hit!  History bit is set to 01 now.
+1140---24380 address is in the cache. Hit!  History bit is set to 01 now.
+1141---19602 address is in the cache. Hit!  History bit is set to 01 now.
+1142---57998 address is in the cache. Hit!  History bit is set to 01 now.
+1143---2919 address is in the cache. Hit!  History bit is set to 01 now.
+1144---8362 address is in the cache. Hit!  History bit is set to 01 now.
+1145---17884 address is in the cache. Hit!  History bit is set to 01 now.
+1146---45737 address is in the cache. Hit!  History bit is set to 01 now.
+1147---47894 address is in the cache. Hit!  History bit is set to 01 now.
+1148---59667 address is in the cache. Hit!  History bit is set to 01 now.
+1149---10385 address is in the cache. Hit!  History bit is set to 01 now.
+1150---52782 address is in the cache. Hit!  History bit is set to 01 now.
+1151---64416 address is in the cache. Hit!  History bit is set to 01 now.
+1152---40946 address is in the cache. Hit!  History bit is set to 01 now.
+1153---16778 address is in the cache. Hit!  History bit is set to 01 now.
+1154---27159 address is in the cache. Hit!  History bit is set to 01 now.
+1155---38669 address is in the cache. Hit!  History bit is set to 11 now.
+1156---45637 address is in the cache. Hit!  History bit is set to 11 now.
+1157---43151 address is in the cache. Hit!  History bit is set to 11 now.
+1158---9465 address is in the cache. Hit!  History bit is set to 11 now.
+1159---52335 address is in the cache. Hit!  History bit is set to 11 now.
+1160---38775 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+1161---52704 address is in the cache. Hit!  History bit is set to 01 now.
+1162---24380 address is in the cache. Hit!  History bit is set to 01 now.
+1163---19602 address is in the cache. Hit!  History bit is set to 01 now.
+1164---57998 address is in the cache. Hit!  History bit is set to 01 now.
+1165---2919 address is in the cache. Hit!  History bit is set to 01 now.
+1166---8362 address is in the cache. Hit!  History bit is set to 01 now.
+1167---17884 address is in the cache. Hit!  History bit is set to 01 now.
+1168---45737 address is in the cache. Hit!  History bit is set to 01 now.
+1169---47894 address is in the cache. Hit!  History bit is set to 01 now.
+1170---59667 address is in the cache. Hit!  History bit is set to 01 now.
+1171---10385 address is in the cache. Hit!  History bit is set to 01 now.
+1172---52782 address is in the cache. Hit!  History bit is set to 01 now.
+1173---64416 address is in the cache. Hit!  History bit is set to 01 now.
+1174---40946 address is in the cache. Hit!  History bit is set to 01 now.
+1175---16778 address is in the cache. Hit!  History bit is set to 01 now.
+1176---27159 address is in the cache. Hit!  History bit is set to 01 now.
+1177---38669 address is in the cache. Hit!  History bit is set to 01 now.
+1178---45637 address is in the cache. Hit!  History bit is set to 01 now.
+1179---43151 address is in the cache. Hit!  History bit is set to 01 now.
+1180---9465 address is in the cache. Hit!  History bit is set to 01 now.
+1181---2498 address is in the cache. Hit!  History bit is set to 01 now.
+1182---13978 address is in the cache. Hit!  History bit is set to 01 now.
+1183---16326 address is in the cache. Hit!  History bit is set to 01 now.
+1184---51442 address is in the cache. Hit!  History bit is set to 01 now.
+1185---34845 address is in the cache. Hit!  History bit is set to 01 now.
+1186---63667 address is in the cache. Hit!  History bit is set to 01 now.
+1187---39370 address is in the cache. Hit!  History bit is set to 01 now.
+1188---55671 address is in the cache. Hit!  History bit is set to 01 now.
+1189---64496 address is in the cache. Hit!  History bit is set to 01 now.
+1190---28928 address is in the cache. Hit!  History bit is set to 01 now.
+1191---30711 address is in the cache. Hit!  History bit is set to 01 now.
+1192---8800 address is in the cache. Hit!  History bit is set to 01 now.
+1193---52335 address is in the cache. Hit!  History bit is set to 01 now.
+1194---38775 address is in the cache. Hit!  History bit is set to 01 now.
+1195---52704 address is in the cache. Hit!  History bit is set to 11 now.
+1196---24380 address is in the cache. Hit!  History bit is set to 11 now.
+1197---19602 address is in the cache. Hit!  History bit is set to 11 now.
+1198---57998 address is in the cache. Hit!  History bit is set to 11 now.
+1199---2919 address is in the cache. Hit!  History bit is set to 11 now.
+1200---8362 address is in the cache. Hit!  History bit is set to 11 now.
+History reset due to frequency count reach!
+1201---17884 address is in the cache. Hit!  History bit is set to 01 now.
+1202---45737 address is in the cache. Hit!  History bit is set to 01 now.
+1203---47894 address is in the cache. Hit!  History bit is set to 01 now.
+1204---59667 address is in the cache. Hit!  History bit is set to 01 now.
+1205---10385 address is in the cache. Hit!  History bit is set to 01 now.
+1206---52782 address is in the cache. Hit!  History bit is set to 01 now.
+1207---64416 address is in the cache. Hit!  History bit is set to 01 now.
+1208---40946 address is in the cache. Hit!  History bit is set to 01 now.
+1209---16778 address is in the cache. Hit!  History bit is set to 01 now.
+1210---27159 address is in the cache. Hit!  History bit is set to 01 now.
+1211---38669 address is in the cache. Hit!  History bit is set to 01 now.
+1212---45637 address is in the cache. Hit!  History bit is set to 01 now.
+1213---43151 address is in the cache. Hit!  History bit is set to 01 now.
+1214---9465 address is in the cache. Hit!  History bit is set to 01 now.
+1215---7731 address is in the cache. Hit!  History bit is set to 01 now.
+1216---43046 address is in the cache. Hit!  History bit is set to 01 now.
+1217---60498 address is in the cache. Hit!  History bit is set to 01 now.
+1218---9237 address is in the cache. Hit!  History bit is set to 01 now.
+1219---47706 address is in the cache. Hit!  History bit is set to 01 now.
+1220---43973 address is in the cache. Hit!  History bit is set to 01 now.
+1221---42008 address is in the cache. Hit!  History bit is set to 01 now.
+1222---27460 address is in the cache. Hit!  History bit is set to 01 now.
+1223---24999 address is in the cache. Hit!  History bit is set to 01 now.
+1224---65080 address is in the cache. Hit!  History bit is set to 01 now.
+1225---38753 address is in the cache. Hit!  History bit is set to 01 now.
+1226---16041 address is in the cache. Hit!  History bit is set to 01 now.
+1227---9041 address is in the cache. Hit!  History bit is set to 01 now.
+1228---42090 address is in the cache. Hit!  History bit is set to 01 now.
+1229---46388 address is in the cache. Hit!  History bit is set to 01 now.
+1230---63650 address is in the cache. Hit!  History bit is set to 01 now.
+1231---36636 address is in the cache. Hit!  History bit is set to 01 now.
+1232---21947 address is in the cache. Hit!  History bit is set to 01 now.
+1233---19833 address is in the cache. Hit!  History bit is set to 01 now.
+1234---36464 address is in the cache. Hit!  History bit is set to 01 now.
+1235---8541 address is in the cache. Hit!  History bit is set to 01 now.
+1236---12712 address is in the cache. Hit!  History bit is set to 01 now.
+1237---48955 address is in the cache. Hit!  History bit is set to 01 now.
+1238---39206 address is in the cache. Hit!  History bit is set to 01 now.
+1239---15578 address is in the cache. Hit!  History bit is set to 01 now.
+1240---49205 address is in the cache. Hit!  History bit is set to 01 now.
+History reset due to frequency count reach!
+1241---7731 address is in the cache. Hit!  History bit is set to 01 now.
+1242---43046 address is in the cache. Hit!  History bit is set to 01 now.
+1243---60498 address is in the cache. Hit!  History bit is set to 01 now.
+1244---9237 address is in the cache. Hit!  History bit is set to 01 now.
+1245---47706 address is in the cache. Hit!  History bit is set to 01 now.
+1246---43973 address is in the cache. Hit!  History bit is set to 01 now.
+1247---42008 address is in the cache. Hit!  History bit is set to 01 now.
+1248---27460 address is in the cache. Hit!  History bit is set to 01 now.
+1249---24999 address is in the cache. Hit!  History bit is set to 01 now.
+1250---63650 address is in the cache. Hit!  History bit is set to 01 now.
+1251---36636 address is in the cache. Hit!  History bit is set to 01 now.
+1252---21947 address is in the cache. Hit!  History bit is set to 01 now.
+1253---19833 address is in the cache. Hit!  History bit is set to 01 now.
+1254---36464 address is in the cache. Hit!  History bit is set to 01 now.
+1255---8541 address is in the cache. Hit!  History bit is set to 01 now.
+1256---12712 address is in the cache. Hit!  History bit is set to 01 now.
+1257---48955 address is in the cache. Hit!  History bit is set to 01 now.
+1258---39206 address is in the cache. Hit!  History bit is set to 01 now.
+1259---15578 address is in the cache. Hit!  History bit is set to 01 now.
+Operation count:1259
+Hits: 876
+Misses: 383.
+Number of empty streams: 1
+Line numbers in the address text file you entered that has empty address: 159, .
